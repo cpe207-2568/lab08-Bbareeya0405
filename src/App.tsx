@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="d-flex flex-column" style={{ minHeight: "100vh" }}>
       {/* Header ด้านบน */}
-      {/* <header className="text-white bg-primary p-2 w-100">
+      {<header className="text-white bg-primary p-2 w-100">
         <h4>Note App</h4>
-      </header> */}
+      </header>}
       <Header></Header>
 
       <div className="d-flex flex-grow-1">
