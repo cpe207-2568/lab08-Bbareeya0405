@@ -19,7 +19,7 @@ function App() {
         {/* Main content */}
 
         <div className="container text-center">
-          <main className="flex-grow-1 p-4">
+          <main className="text-black bg-primary p-2 w-100">
             <p>Bareeya Sanii</p>
             {/* input ด้านบน*/}
             <Taskinput></Taskinput>
